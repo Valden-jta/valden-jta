@@ -59,7 +59,16 @@ I strive for continuous improvement to better serve teams, employers, and end us
 
 ## Contact
 
+![Email] your.email@example.com
+LinkedIn: https://www.linkedin.com/in/your-profile
+Portfolio: https://your-portfolio.example.com
+CV/Resume: https://your-cv.example.com
+
 ## Currently Learning
+
+- Advanced TypeScript patterns and performance profiling.
+- Testing strategies for complex front-end applications.
+- Cloud-native best practices.
 
 ## Activity
 
