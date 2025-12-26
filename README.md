@@ -1,27 +1,83 @@
-# Valden
-This is a personal repository for practice and learning purposes
+<h1 align="center">Hi, I'm Javier</h1>
+<p align="center">
+	<img src="./images/Portada.png" alt="Banner or portfolio cover" width="100%" />
+</p>
+<p align="center">Web Developer — building accessible, fast, and maintainable products.</p>
 
-Hi! I´m Javier, and I´ve just landed in Web Development. My goal is to become a proficient front-end developer, and in the medium term, acquire the necessary skills to work as a full-stack developer.
+---
 
-Currently, I am developing skills on:
-- Languages:<br>
-![html_plain_wordmark_logo_icon_146476](https://github.com/Valden-jta/Valden/assets/148378445/3ca623e5-24d6-4a7b-af44-ee41bb8c8c72)
-![css_plain_wordmark_logo_icon_146574](https://github.com/Valden-jta/Valden/assets/148378445/5ac266d7-6e68-455b-8547-faf48717ec15)
-![javascript_original_logo_icon_146455](https://github.com/Valden-jta/Valden/assets/148378445/72c1e47e-e2ec-4ac8-81b8-98aaf8213996)
-![file_type_typescript_official_icon_130107](https://github.com/Valden-jta/Valden/assets/148378445/5964c3c5-d3ad-40cd-b231-3b80de8318ca)
-![file_type_php_icon_130266](https://github.com/Valden-jta/Valden/assets/148378445/5189c5c1-40b7-4c95-a8a9-917e7f8cfaf9)
+## About Me
 
-- Databases:<br>
-![mysql_plain_wordmark_logo_icon_146415](https://github.com/Valden-jta/Valden/assets/148378445/4897a262-0bae-42c8-aa46-f8e13082a4bf)
+- 5+ years building SPAs, design systems, and REST APIs.
+- Passionate about performance, developer experience, and clean architecture.
+- Currently contributing to projects in React/Angular and Node/Express.
+- Open to collaboration, mentoring, and community initiatives.
 
-- Frameworks:<br>
-![bootstrap_plain_wordmark_logo_icon_146620](https://github.com/Valden-jta/Valden/assets/148378445/5a659a12-31b6-4b8f-b7dc-c645fea4cc2b)
-![react_original_wordmark_logo_icon_146375](https://github.com/Valden-jta/Valden/assets/148378445/6193302e-531c-4ddb-beaa-6c0eb8c66972)
+## Personal Intro
 
-- CMRs:<br>
-![wordpress_plain_wordmark_logo_icon_146290](https://github.com/Valden-jta/Valden/assets/148378445/1226a35e-ded6-470e-9a6c-e23b25baa07c)
+👋 Hi! I'm Javier. I'm passionate about web development and the challenge of building applications end to end. My background as a freelance Front-end UI developer gives me a strong foundation in UX/UI and in direct client collaboration. My ongoing learning roadmap focuses on deployment architecture and CI/CD, applied AI ecosystems, advanced interface design and UX with dynamic animations, and performance and Web Vitals.
 
-- IDEs:<br>
-![visualstudio_plain_wordmark_logo_icon_146309](https://github.com/Valden-jta/Valden/assets/148378445/61da2810-6f03-4fa3-beff-7faaad3b6c9d)
+I strive for continuous improvement to better serve teams, employers, and end users. I'm driven by teamwork, lifelong learning, autonomy with a problem-solving mindset, and attention to detail. I aim to grow as a Full Stack Developer in a team where I can learn from the best and add value from day one. If you think I’m a good fit for your project—or have suggestions for my growth—I’d love to connect!
 
-===================================
+## Skills
+
+**Front-End**: HTML, CSS, JavaScript/TypeScript, React, Angular
+
+**Back-End**: Node.js, Express
+
+**Databases**: MySQL, MongoDB
+
+**Tools**: Git
+
+**CMS**: WordPress
+
+## Featured Projects
+
+- Project A — E-commerce SPA improving conversion by +12%.
+
+  - Links: [Repository](#) · [Live Demo](#)
+  - Stack: React, Node.js, MySQL
+
+- Project B — Modular REST API with 99.9% uptime.
+
+  - Links: [Repository](#) · [Documentation](#)
+  - Stack: Express, MongoDB
+
+- Project C — Analytics dashboard with <1s load time.
+  - Links: [Repository](#) · [Live Demo](#)
+  - Stack: Angular, NestJS
+
+<details>
+	<summary>See more repositories</summary>
+  
+	- Project D — Description, links, stack
+	- Project E — Description, links, stack
+	- Project F — Description, links, stack
+</details>
+
+## Achievements & Education
+
+- Certification X — Provider (Year)
+- Course Y — Platform (Year)
+- Award Z — Organization (Year)
+
+## Activity
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg">
+
+## Contact
+
+
+## Currently Learning
+
+- Advanced TypeScript patterns and performance profiling.
+- Testing strategies for complex front-end applications.
+- Cloud-native best practices.
+
+---
+
+<p align="center">
+	<img src="./images/JTA-logo200.png" alt="Personal logo" width="120" />
+</p>
+
+<p align="center">Last updated: 2025-12-26 · Keep this README concise and periodically refreshed.</p>
