@@ -109,10 +109,9 @@ Busco la mejora continua para ofrecer un mejor servicio a mis equipos, empleador
 
 ## Aprendiendo actualmente
 
-- Patrones avanzados de TypeScript y perfilado de rendimiento.
-- Estrategias de testing para aplicaciones front-end complejas.
-- Buenas prácticas cloud-native.
-
+- Arquitectura y patrones de diseño avanzados.
+- Estrategias de testing y mejora de rendimiento y despliegue rápido para aplicaciones front-end complejas.
+- Automatización e integración de IA en el ecosistema.
 ## Actividad
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">

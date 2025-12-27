@@ -104,9 +104,9 @@ I strive for continuous improvement to better serve teams, employers, and end us
 
 ## Currently Learning
 
-- Advanced TypeScript patterns and performance profiling.
-- Testing strategies for complex front-end applications.
-- Cloud-native best practices.
+- Advanced architecture and design patterns.
+- Testing strategies, performance optimization, and rapid deployment for complex front-end applications.
+- Automation and AI integration within the ecosystem.
 
 ## Activity
 
