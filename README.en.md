@@ -87,11 +87,11 @@ I strive for continuous improvement to better serve teams, employers, and end us
 <details>
 	<summary>See more repositories</summary>
 
-    - Portfolio (GitHub Pages) — Personal site and static landing in Vanilla JS (Practice).
+- Portfolio (GitHub Pages) — Personal site and static landing in Vanilla JS (Practice).
 
     [![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)](https://valden-jta.github.io/)
 
-    - myBooks (Angular) — Angular version with services, routing, and reactive forms.
+- myBooks (Angular) — Angular version with services, routing, and reactive forms.
 
     [![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Valden-jta/appBooks)
 
